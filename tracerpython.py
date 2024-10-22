@@ -1,2 +1,4 @@
 import turtle as t
-t.forward(100)
+for i in range(5):
+    t.forward(100)
+    t.right(80)
